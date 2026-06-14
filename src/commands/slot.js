@@ -177,7 +177,7 @@ module.exports = {
                     ? "Green"
                     : "Red"
             )
-            .setTitle("🎰 Máquina do Hospício")
+            .setTitle("🎰 Máquina da Tropinha")
             .setDescription(
                 `${slot1} | ${slot2} | ${slot3}\n\n${resultText}`
             )
@@ -189,7 +189,7 @@ module.exports = {
                         : `-${bet} ${KC}`
             })
             .setFooter({
-                text: "Hospício do Killer"
+                text: "Tropinha do JeffinPVP"
             })
             .setTimestamp();
 

@@ -233,7 +233,7 @@ module.exports = {
                         : `💀 Não houve combinação vencedora.`
             })
             .setFooter({
-                text: "Hospício do Killer"
+                text: "Tropinha do JeffinPVP"
             })
             .setTimestamp();
 

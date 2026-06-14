@@ -187,7 +187,7 @@ module.exports = {
                     ? "Green"
                     : "Red"
             )
-            .setTitle("🎡 Roleta do Hospício")
+            .setTitle("🎡 Roleta da Tropinha")
             .addFields(
                 {
                     name: "🎯 Sua aposta",
@@ -206,7 +206,7 @@ module.exports = {
                     : `💀 Você perdeu **${bet} ${KC}**.`
             )
             .setFooter({
-                text: "Hospício do Killer"
+                text: "Tropinha do JeffinPVP"
             })
             .setTimestamp();
 

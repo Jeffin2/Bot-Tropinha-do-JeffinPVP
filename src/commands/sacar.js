@@ -90,7 +90,7 @@ module.exports = {
                 `💸 Sacado: **${valor} ${KC}**`
             )
             .setFooter({
-                text: "Hospício do Killer"
+                text: "Tropinha do JeffinPVP"
             })
             .setTimestamp();
 

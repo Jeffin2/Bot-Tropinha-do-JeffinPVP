@@ -14,7 +14,7 @@ module.exports = {
         const embed =
             new EmbedBuilder()
 
-                .setTitle("🏥 Hospício do Killer")
+                .setTitle("🏥 Tropinha do JeffinPVP")
                 .setColor("Red")
 
                 .setDescription(
